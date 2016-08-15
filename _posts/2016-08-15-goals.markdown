@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Goals in teaching"
+date:   2016-08-15 08:23:23 +0800
+categories: cs1101s
+---
+
+### Goals
+These are the goals that I want to achieve for my tutorial group.
+
+- For everyone to know each other
+- Peer support: a small community of learners where they can ask each other questions without being judged (the questions must be reasonable of couse)
+- For everyone to get better at learning how to learn.
+
+
+### Expectations of every student
+- Homework must be attempted before the lesson. The definition of attempted, means that the homework is completed or close to completion
+- All to attend every DG
+- To ask. If I can't answer I will find the answer. 
+
+### My Plans
+- To complete every DG and revise on the old concepts by the end of week 2.
+- Settle the robotics missions and the setting up of the java transpiler. 
+- Document each week's lesson plan and thoughts about teaching here.
+
+### Lesson plan
+- Revision on what was covered*
+- Go through tutorial content*
+- Looking at the textbook together
+- Scrolling through the forum together
+
+
+I'm thankful for the opportunity to be entrusted with students to teach, and I will try my best to teach them in my fullest capacity. 
