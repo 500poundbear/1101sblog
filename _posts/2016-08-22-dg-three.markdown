@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "DG Week 3"
+date:   2016-08-22 09:38:00 +0800
+categories: cs1101s dg
+---
+
+### Plan for the class
+
+#### Topics to cover
+- Abstraction, scope and recursion
+  - Abstraction and its importance
+  - Scope and significance of **var**
+  - Linear and tree recursion
+- Substitution model
+  - Provide a bit of context as to why we are learning this (esp for those with some background)
+- Order of growth
+  - time VS space (how to intuitively tell the difference)
+
+#### Lesson Flow
+- Review slides for 2A
+- Go through 2 DG questions regarding 2A
+- Review slides for 2B
+- Go through remaining 6 questions
+- Run through textbook
+- Answer burning questions
+
+Lets see how it goes!
