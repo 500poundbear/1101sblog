@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "DG Week 4"
+date:   2016-08-28 17:32:00 +0800
+categories: cs1101s dg
+---
+
+### Plan for the class
+- Recursion
+  - Recap of how to solve things recursively
+  - Tower of Hanoi
+  - Coin Change
+
+- What does Higher Order Programming actually mean
+  - Passing functions to functions
+  - Returning functions from functions
+  - Invariants can help to **reason about correctness**
+  - Go through DG materials slowly
+  - Reiterate on *substitution model*
+
+I think I'm going to cover more on higher order functions and focus on the intuition when solving such problems. 
+
+Change of DG venue from now on. 
+
+#### Lesson Flow
+- Review slides for 3A
+- Go through DG questions on recursion
+- Review slides for 3B
+- Go through remaining DG questions
+- Focus on higher order functions and questions
+
+Week four bring it on!
+
+#### Updates on robomission testing
+
+Fish, Anna and Ben helped me with the robots. But I haven't installed lejos yet, must less try out the interpreter. Will start tonight.
