@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "DG Week 5"
+date:   2016-09-05 11:07:00 +0800
+categories: cs1101s dg
+---
+
+### Plan for the class
+Drawing lists are important, so everyone will get a chance to attempt a question on the board. 
+
+Ask everyone to write the solution to taking every alternate number in the list on the board.
+
+Discuss the order of growth of lists (when is it theta n and when is it theta 1, usually)
+
+#### Lesson Flow
+- Review slides for 4A (Focus on pair and why the first portion of the slides discuss how to use a function to create an abstraction for **make_pair**
+- Go through DG questions on lists
+- Review slides for 4B
+- Go through burning DG questions
+
+#### Updates on robomission testing
+
+Will start tomorrow. This comes with porting the mission to markdown
