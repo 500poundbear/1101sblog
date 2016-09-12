@@ -7,7 +7,7 @@ categories: cs1101s dg
 
 ### Plan for the class
 
-Functional programming concepts: filter and accumulate. The aim of this lesson will be to provide as much **intuition** as possible, and to emphasise on the tricky parts of accumulation and filtering. Ensuring that everyone can come up with a solution to the problem, as well as modifications to the problem.
+Functional programming concepts: filter and accumulate. The aim of this lesson will be to provide as much **intuition** as possible, and to emphasise on the tricky parts of accumulation, mapping and filtering. Ensuring that everyone can come up with a solution to the problem, as well as modifications to the problem.
 
 I'll cover usual tricks that can be used to solve such problems, as well as possible practise questions so that the students will be proficient. 
 
